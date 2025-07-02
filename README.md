@@ -143,10 +143,10 @@ npm run dev
 
 ## 📫 Contact
 
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/ashwanik0777/)
-- [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/ashwanik0777)
-- [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:ashwanik0777@gmail.com)
-- [![Twitter/X](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg)](https://twitter.com/ashwanik0777)
+- [LinkedIn](https://www.linkedin.com/in/ashwanik0777/)
+- [GitHub](https://github.com/ashwanik0777)
+- [Email](mailto:ashwanik0777@gmail.com)
+- [Twitter/X](https://twitter.com/ashwanik0777)
 - [Portfolio](https://ashwanikumar.dev)
 
 ---
