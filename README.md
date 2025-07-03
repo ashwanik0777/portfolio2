@@ -151,5 +151,5 @@ npm run dev
 
 ---
 
-> _Built with ❤️ by Ashwani Kumar using Next.js, TypeScript, TailwindCSS, and the latest cutting-edge web technologies.  
+> _Built with ❤️ by Ashwani Kushwaha using Next.js, TypeScript, TailwindCSS, and the latest cutting-edge web technologies.  
 > Inspired by the community, for the community._
