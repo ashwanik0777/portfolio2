@@ -1,4 +1,4 @@
-# 🚀 Ashwani Kumar – Ultra-Modern Dynamic Portfolio with Smart Admin Dashboard
+# 🚀 Ashwani Kushwaha – Ultra-Modern Dynamic Portfolio with Smart Admin Dashboard
 
 Welcome to **Ashwani Kumar's Portfolio** – an avant-garde, fully dynamic, and visually immersive portfolio template built for developers, designers, and creators who love both beauty and brains in their web presence. Enjoy top-tier UI/UX, rich micro-interactions, and a robust admin dashboard for effortless content management.
 
@@ -145,9 +145,9 @@ npm run dev
 
 - [LinkedIn](https://www.linkedin.com/in/ashwanik0777/)
 - [GitHub](https://github.com/ashwanik0777)
-- [Email](mailto:ashwanik0777@gmail.com)
+- [Email](mailto:ashwanik346981@gmail.com)
 - [Twitter/X](https://twitter.com/ashwanik0777)
-- [Portfolio](https://ashwanikumar.dev)
+- [Portfolio](https://ashwanik0777.github.io/portfolio/)
 
 ---
 
